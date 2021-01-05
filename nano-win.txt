@@ -1,0 +1,16 @@
+[Section]
+Name = Nano for Windows
+Version = 4.9
+License = GPLv3
+Description = Nano for Windows (nano-win) is the ported, standalone version of GNU nano, a famous, easy-to-use and handy text editor on Linux. To extract, 7-Zip or a similar tool is required. Copy the "nano.exe" file in "i686-w64-mingw32\bin\" directory to the target folder, preferably add the directory to PATH in Environment Variables.
+Category = 12
+URLSite = https://github.com/lhmouse/nano-win
+URLDownload = https://files.lhmouse.com/nano-win/nano-win_8920_v4.9-168-gccf508e2.7z
+SHA1 = c544eca9783c8b2667f38a385b39a9fabc83a7d1
+CDPath = none
+SizeInBytes = 538012
+Screenshot1 = https://i.imgur.com/ZaMtxCA.png
+
+; Turkish
+[Section.041f]
+Description = Nano for Windows (nano-win), Linux üzerinde kullnılan ünlü, kullanımı kolay ve kullanışlı metin düzenleyici olan GNU nano'nun port edilmiş, tek başına çalışabilen bir sürümüdür. Kurmak için 7-zip veya benzer bir ZIP çıkartma uygulaması gerekir. "i686-w64-mingw32\bin\" klasöründeki "nano.exe" dosyasını uygun bir klasöre kopyalayın. Çevresel Değşkenler'de PATH değişkenine klasörü eklemeniz tavsiye edilir.
